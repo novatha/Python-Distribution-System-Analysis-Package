@@ -1,0 +1,3 @@
+Python Distribution System Analysis Package
+
+This project is an effort to provide a python implementation for electrical distribution system analysis. The first step is implementation of Backward/Forward Sweep three phase load flow.
